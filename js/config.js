@@ -4,7 +4,7 @@ let respecConfig = {
 //  license: "eupl",
   shortName: "Respec-template",
 
-  // Zie 'localizationStrings/nl' voor de lijst met toegestane specificatie-types
+  // Zie de globale property 'localizationStrings/nl' voor de lijst met toegestane specificatie-types
   specType: "HR",
   
   // Zie 'localizationStrings/nl' voor de lijst met toegestane specificatie-statussen
@@ -12,14 +12,14 @@ let respecConfig = {
   publishDate: "2024-1-10",
   publishVersion: "0.1.0",
   
-  // Zie 'localizationStrings/nl' voor de lijst met toegestane maturities
+  // Zie de globale property 'localizationStrings/nl' voor de lijst met toegestane maturities
   previousMaturity: "IG",
   previousPublishDate: "2022-06-24",
   previousPublishVersion: "0.0.4",
   
   title: "Respec documentatie generatie",
   subtitle: "Tevens een voorbeeld van een gegenereerd Respec document",
-  content: {"mermaid": "", "ch01": "informative", "ch02": ""},
+//  content: {"mermaid": "", "ch01": "informative", "ch02": ""},
 //  authors:
 //    [
 //      {
